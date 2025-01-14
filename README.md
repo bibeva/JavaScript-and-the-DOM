@@ -4,6 +4,8 @@ Welcome to the JavaScript and the DOM learning series! This repository contains 
 
 If you're interested in learning with me, check out the video series on YouTube: https://www.youtube.com/watch?v=5iyEE4asLfk&list=PLiUrl-SQRR7IZ0qSFCpgNpGXbfwAjj4jj
 
+If you want to download the project, click this link: https://buymeacoffee.com/codewithbibek/e/324551
+
 Feel free to clone this repository and start your journey!
 
 Happy coding!
